@@ -6,6 +6,22 @@
     <description>Updates für MacControl</description>
     <language>de</language>
     <item>
+      <title>MacControl 0.3.0</title>
+      <pubDate>Mon, 23 Nov 2026 21:58:39 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Neue Oberfläche: kompaktes Dashboard-Popover und Hauptfenster mit Seitenleiste</li>
+<li>Audio: Geräte wechseln, Lautstärke/Balance/Abtastrate, Mikrofon stumm</li>
+<li>Audio pro App: Lautstärke 0–200 %, Stummschalten, eigenes Ausgabegerät, 10-Band-EQ (Core Audio Process Taps)</li>
+<li>Medien konvertieren: Bilder (HEIC/JPG/PNG/TIFF), Videos (H.264/HEVC/ProRes, nur Ton), Audio (M4A/WAV/AIFF/ALAC/CAF) – ressourcenschonend, ohne Zusatzsoftware</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/rA1nm3n/maccontrol-releases/releases/download/v0.3.0/MacControl-0.3.0.dmg" length="4496960" type="application/octet-stream" sparkle:edSignature="KaZKhK95h6HLtdLKclT9eEgVuxgyLhlHGSIc2mfLIAu7da3Fm3texNU5pyetGdBtFOSZ5LsNkfI2PL/ADrIMDg=="/>
+    </item>
+    <item>
       <title>MacControl 0.2.1</title>
       <pubDate>Mon, 23 Nov 2026 21:01:56 +0000</pubDate>
       <sparkle:version>15</sparkle:version>
