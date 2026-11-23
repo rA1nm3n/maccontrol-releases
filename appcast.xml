@@ -5,6 +5,20 @@
     <link>https://github.com/rA1nm3n/maccontrol-releases</link>
     <description>Updates für MacControl</description>
     <language>de</language>
+    <item>
+      <title>MacControl 0.2.1</title>
+      <pubDate>Mon, 23 Nov 2026 21:01:56 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Button „Updates“ unten im Popover (sofort nach Updates suchen)</li>
+<li>Autostart-Liste: lange Namen werden nicht mehr abgeschnitten</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/rA1nm3n/maccontrol-releases/releases/download/v0.2.1/MacControl-0.2.1.dmg" length="3960843" type="application/octet-stream" sparkle:edSignature="nYP7lEf2tCXY9nGwuXh+JeqD/mNL0ULpoeLJqksmmZ1JXnN5ORIWPUD42G73H1JcbsByMYrPniE/gNNr6sOsDw=="/>
+    </item>
       <item>
       <title>MacControl 0.2.0</title>
       <pubDate>Mon, 23 Nov 2026 20:57:33 +0000</pubDate>
