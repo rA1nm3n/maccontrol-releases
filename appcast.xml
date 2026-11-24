@@ -6,6 +6,20 @@
     <description>Updates für MacControl</description>
     <language>de</language>
     <item>
+      <title>MacControl 0.3.1</title>
+      <pubDate>Tue, 24 Nov 2026 21:19:14 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Neues Lüfterprofil „Auto mit Schutz“ (Auto+): macOS regelt bis zur Schwelle (Standard 80 °C, einstellbar 70–95 °C), darüber steigert MacControl bis Max bei Schwelle + 15 °C; Rückgabe ans System erst nach 30 s unter Schwelle − 5 °C</li>
+<li>Diagnose: <code>macfan-probe --keys</code>, <code>MACFAN_DIAG=autotest</code> (mit <code>MACFAN_DIAG_PROFILE</code>)</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/rA1nm3n/maccontrol-releases/releases/download/v0.3.1/MacControl-0.3.1.dmg" length="4507679" type="application/octet-stream" sparkle:edSignature="BezlUVlK8luUf8MfN0EV2KOTTqWPo+DlYmU3PC3F9y/FTLXjDVgl1j9PDJULWpo2erpSW+SGAqFi2oRhDHvHBw=="/>
+    </item>
+    <item>
       <title>MacControl 0.3.0</title>
       <pubDate>Mon, 23 Nov 2026 21:58:39 +0000</pubDate>
       <sparkle:version>20</sparkle:version>
